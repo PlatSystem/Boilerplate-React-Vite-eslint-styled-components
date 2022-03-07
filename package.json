@@ -9,11 +9,10 @@
   },
   "dependencies": {
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.3"
   },
   "devDependencies": {
-    "eslint-import-resolver-typescript": "^2.5.0",
-    "eslint-plugin-import-helpers": "^1.1.0",
     "@types/react": "^17.0.33",
     "@types/react-dom": "^17.0.10",
     "@typescript-eslint/eslint-plugin": "^5.12.1",
@@ -22,7 +21,9 @@
     "eslint": "^8.9.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^8.4.0",
+    "eslint-import-resolver-typescript": "^2.5.0",
     "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-import-helpers": "^1.1.0",
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.28.0",
